@@ -3,7 +3,9 @@
 ### evade / clash and multiple actions
 
 If you score the same or more successes as the foe's accuracy roll you evade. doesn't matter if it is your first, second, third, fourth or fifth action.
+
 Pokemon **A** attacks Pokemon **B** with 5 successes, Pokemon **B** evades as their 3rd action, Pokemon **B** needs 5 successes, not 7.
+
 Pokemon **A** attacks on their 3rd action with 5 successes, Pokemon **B** needs 5 successes, not 3.
 
 ### damage
