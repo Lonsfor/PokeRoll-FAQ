@@ -8,6 +8,8 @@ Pokemon **A** attacks Pokemon **B** with 5 successes, Pokemon **B** evades as th
 
 Pokemon **A** attacks on their 3rd action with 5 successes, Pokemon **B** needs 5 successes, not 3.
 
+Pokemon **A** attacks Pokemon **B** with 2 successes, Pokemon **B** evades as their 3rd action, Pokemon **B** needs 2 successes, not 5.
+
 ### Damage
 
 The only way to reduce damage to 0 is with type resistance. otherwise is 1 damage.
