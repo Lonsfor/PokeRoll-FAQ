@@ -19,3 +19,9 @@ You only roll accuracy once, you dont roll for the copied move.
 ### Bide
 
 Unlike the games you can actually do stuff while Bide is active (attack, evade, clash, ect). Damage is not stored if you clash. When unleashing Bide the foe clashes/evades agaist the accuracy roll that activated the move.
+
+### Damage reduction moves
+
+Similarly to Attribute buffs, moves that reduce damage do not stack.
+
+eg if you use Light Screen and then Aurora Veil you do not get -2 damage from Special Attacks, only -1.
