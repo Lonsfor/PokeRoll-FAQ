@@ -12,6 +12,10 @@ Pokemon **A** attacks on their 3rd action with 5 successes, Pokemon **B** needs 
 
 The only way to reduce damage to 0 is with type resistance. otherwise is 1 damage.
 
+### Clashing for an ally
+
+If an attack is targetting an ally you can clash it. if you fail you lose an action an the ally gets hit as normal, you are the one that takes the Clash damage if you succeed.
+
 ### Mirror Move
 
 You only roll accuracy once, you dont roll for the copied move.
